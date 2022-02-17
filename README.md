@@ -1,2 +1,3 @@
-# tutus-trademarket
-Covers basic online shopping functionalities using Django
+# 2022 Ca298 Template
+
+Template repo for Ca298
